@@ -15,7 +15,7 @@ import lombok.Setter;
 @Entity
 @Table(name="clientes")
 public class Cliente {
-//prueba
+	
 	@Id
 	private int dni;
 	private String nombre;
