@@ -15,7 +15,7 @@ import lombok.Setter;
 @Entity
 @Table(name="clientes")
 public class Cliente {
-	
+	//comentario
 	@Id
 	private int dni;
 	private String nombre;
